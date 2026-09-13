@@ -4,10 +4,17 @@
     <title>Custom Mechanical Keyboards &amp; Thock Hub</title>
     <link>https://mechanical-keyboards-custom-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 09 Sep 2026 06:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:31:02 GMT</lastBuildDate>
     <atom:link href="https://mechanical-keyboards-custom-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://mechanical-keyboards-custom-hub.vercel.app/#mechanical-keyboards-custom-hub-forum-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:31:02 GMT</pubDate>
+      <description>Newly verified community added to Custom Mechanical Keyboards &amp; Thock Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>Custom Mechanical Keyboards &amp; Thock Hub Initial Release</title>
       <link>https://mechanical-keyboards-custom-hub.vercel.app/</link>
       <pubDate>Wed, 09 Sep 2026 06:01:35 GMT</pubDate>
