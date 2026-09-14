@@ -1,5 +1,24 @@
 [
   {
+    "id": "mechanical-keyboards-custom-hub-discord-20260914-p1",
+    "title": "MechKeys Official Builders Discord",
+    "platform": "Discord",
+    "category": "Custom Keyboards",
+    "memberCount": "180,000+ members",
+    "description": "Active real-time community of custom keyboard enthusiasts, group buy updates, PCB soldering help, switch sound tests, and artisan keycaps.",
+    "joinUrl": "https://discord.gg/mechkeys",
+    "tags": [
+      "mechkeys",
+      "keyboards",
+      "hardware",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-14"
+  },
+  {
     "id": "mechanical-keyboards-custom-hub-reddit-20260914-1",
     "title": "r/ChatGPT AI Community",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
