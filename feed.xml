@@ -4,10 +4,17 @@
     <title>Custom Mechanical Keyboards &amp; Thock Hub</title>
     <link>https://mechanical-keyboards-custom-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:02:20 GMT</lastBuildDate>
     <atom:link href="https://mechanical-keyboards-custom-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                            <item>
+                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/selfhosted Sovereign Cloud (Reddit)</title>
+      <link>https://www.reddit.com/r/selfhosted/</link>
+      <guid isPermaLink="false">https://mechanical-keyboards-custom-hub.vercel.app/#mechanical-keyboards-custom-hub-reddit-20261017-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:02:20 GMT</pubDate>
+      <description>Newly verified community added to Custom Mechanical Keyboards &amp; Thock Hub: Community dedicated to hosting your own software, Docker compose stacks, cloud alternatives, and privacy-preserving infrastructure.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/hardware Enthusiasts &amp; Benchmarks (Reddit)</title>
       <link>https://www.reddit.com/r/hardware/</link>
       <guid isPermaLink="false">https://mechanical-keyboards-custom-hub.vercel.app/#mechanical-keyboards-custom-hub-reddit-20261016-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/mechanical-keyboards-custom-hub/#mechanical-keyboards-custom-hub-discord-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
       <description>Newly verified community added to Mechanical Keyboards Custom Hub: Active real-time community of custom keyboard enthusiasts, group buy updates, PCB soldering help, switch sound tests, and artisan keycaps.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: OpenAI Official Discord (Discord)</title>
-      <link>https://discord.gg/openai</link>
-      <guid isPermaLink="false">https://mechanical-keyboards-custom-hub.vercel.app/#mechanical-keyboards-custom-hub-discord-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:02:09 GMT</pubDate>
-      <description>Newly verified community added to Custom Mechanical Keyboards &amp; Thock Hub: Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.</description>
     </item>
   </channel>
 </rss>
