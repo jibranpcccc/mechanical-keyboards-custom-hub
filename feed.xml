@@ -4,10 +4,17 @@
     <title>Custom Mechanical Keyboards &amp; Thock Hub</title>
     <link>https://mechanical-keyboards-custom-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:45:17 GMT</lastBuildDate>
     <atom:link href="https://mechanical-keyboards-custom-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://mechanical-keyboards-custom-hub.vercel.app/#custom-mechanical-keyboards-thock-hub-forum-6-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:45:17 GMT</pubDate>
+      <description>Newly verified community added to Custom Mechanical Keyboards &amp; Thock Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
       <link>https://t.me/techcrunch</link>
       <guid isPermaLink="false">https://mechanical-keyboards-custom-hub.vercel.app/#custom-mechanical-keyboards-thock-hub-telegram-5-2026-11-22</guid>
@@ -173,13 +180,6 @@
       <link>https://discord.gg/linux</link>
       <guid isPermaLink="false">https://mechanical-keyboards-custom-hub.vercel.app/#mechanical-keyboards-custom-hub-discord-20261023-1-2026-10-24</guid>
       <pubDate>Sat, 24 Oct 2026 06:02:23 GMT</pubDate>
-      <description>Newly verified community added to Custom Mechanical Keyboards &amp; Thock Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
-      <link>https://discord.gg/linux</link>
-      <guid isPermaLink="false">https://mechanical-keyboards-custom-hub.vercel.app/#mechanical-keyboards-custom-hub-discord-20261023-1-2026-10-23</guid>
-      <pubDate>Fri, 23 Oct 2026 06:02:26 GMT</pubDate>
       <description>Newly verified community added to Custom Mechanical Keyboards &amp; Thock Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
     </item>
   </channel>
